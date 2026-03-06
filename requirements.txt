@@ -1,0 +1,76 @@
+# Django & Web Framework
+Django==4.2.3
+djangorestframework==3.14.0
+django-cors-headers==4.0.0
+django-filter==23.1
+django-extensions==3.2.3
+
+# Environment & Configuration
+python-dotenv==1.0.0
+
+# Database
+psycopg2-binary==2.9.6
+
+# Machine Learning & Computer Vision
+torch==2.0.1
+torchvision==0.15.2
+opencv-python==4.8.0.76
+opencv-contrib-python==4.8.0.76
+numpy==1.24.3
+pandas==2.0.2
+scikit-learn==1.2.2
+scikit-image==0.20.0
+
+# OCR & Text Detection
+paddleocr==2.7.0.3
+paddlepaddle==2.5.0
+Pillow==9.5.0
+
+# Data Processing & Utilities
+scipy==1.11.0
+matplotlib==3.7.1
+seaborn==0.12.2
+requests==2.31.0
+python-dateutil==2.8.2
+
+# Image Processing
+Pillow==9.5.0
+imageio==2.31.1
+
+# Testing & Development
+pytest==7.3.1
+pytest-django==4.5.2
+pytest-cov==4.1.0
+black==23.3.0
+flake8==5.0.4
+pylint==2.17.4
+isort==5.12.0
+
+# Security & Validation
+python-decouple==3.8
+cryptography==41.0.0
+
+# Logging & Monitoring
+python-json-logger==2.0.7
+
+# Performance & Caching
+redis==4.5.5
+celery==5.3.0
+
+# API & Documentation
+drf-spectacular==0.26.1
+drf-yasg==1.21.5
+
+# Production Server
+gunicorn==20.1.0
+whitenoise==6.4.0
+
+# Email
+django-anymail==10.0
+
+# Storage
+django-storages==1.13.2
+boto3==1.26.140
+
+# DateTime
+pytz==2023.3
