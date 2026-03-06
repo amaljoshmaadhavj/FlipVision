@@ -4,7 +4,6 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
 [![Django Version](https://img.shields.io/badge/django-4.2%2B-brightgreen)](https://www.djangoproject.com/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-Active-success)]()
 
 ---
